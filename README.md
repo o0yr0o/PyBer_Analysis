@@ -22,4 +22,6 @@ Although rural has the lowest total rides, it has the highest average fare per d
 The total weekly fare of Urban in all time periods is higher than suburban and rural. The total weekly fare of each city type was relatively low in January, and increased at the end of February. In general, the total weekly fare of each city type in the first quarter of 2019 is relatively stable.
 
 ## Recommendations
-- PyBer should
+- Due to the higher demand for long-distance rides in rural and suburban areas, and often because the fare of long-distance rides is too high, they would choose not to use PyBer. We can provide discounts to remote users in suburban and rural, so that price-sensitive users would choose to use PyBer.
+- For PyBer, drivers are also an important part. Many drivers are reluctant to take long-distance ride orders. This may be because long-distance ride orders are more fuel-intensive or it is inconvenient for them to get off work. PyBer can encourage drivers to take more long-distance ride orders through subsidies.
+- Based on the urban data, the number of drivers is much larger than number of rides, so that the fare received by each driver is not high enough, which forms a vicious circle. In order to increase users in urban area, PyBer can provide first-ride coupon for new users in urban area. Furthermore, PyBer can send coupon to old users and new users if old users refer the app to the new users.
